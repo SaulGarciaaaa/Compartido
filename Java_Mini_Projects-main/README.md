@@ -1,12 +1,13 @@
 # Java_Mini_Projects    [![](https://img.shields.io/badge/Language-Java-brown?logo=java&style=for-the-badge)](https://en.wikipedia.org/wiki/Java_(programming_language))
 
 
-### ***This repo includes some Java basics programs.***
+### ***Este repositorio incluye programas de Java básicos.***
+Hecho por InvisiblePro
 
-#### 1. _Fabonnaci Series_
-#### 2. _Find Number Game_
-#### 3. _Temperature Converter_
-#### 4. _Tip Calculator_
+#### 1. _Serie Fabonnaci_
+#### 2. _Juego de encontrar números_
+#### 3. _Convertidor de temperatura_
+#### 4. _Calculadora de propinas_
 
 
 ### *TOOLS and LANGUAGES* 
